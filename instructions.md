@@ -1,6 +1,6 @@
-# project session 20-02-2024
+x# project session 20-02-2024
 ## satya 's contribution
-** satya 's contribution: ** should be prepare a terraform script to create infrastructure for Dev, QA, uat and prod environments
+** satya 's contribution: ** should be prepare a jenkins file with declarative syntex-the scripts should have all cicd steps
 ## Priyanka 's contribution
 ** priyanka 's contribution: ** should prepare an ansible playbook to install jenkins docker kubernetes maven nexus tomcat..
 ## Prashanth 's contribution
